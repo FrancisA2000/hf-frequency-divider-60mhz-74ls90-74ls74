@@ -111,10 +111,7 @@ Routed layout (top) and ground-plane view:
 ## Repository Layout
 
 ├── docs/ # Report, images, timing diagrams
-├── hardware/ # KiCad: .kicad_pro, .kicad_sch, .kicad_pcb
-├── sim/ # HDL/Logisim models and testbenches
-├── scripts/ # Tools for processing oscilloscope CSVs
-├── images/ # Photos, timing plots, PCB renders (filenames listed below)
+├── images/ # Photos, timing plots, PCB renders
 ├── LICENSES/ # Per-folder licenses
 └── README.md
 
