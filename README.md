@@ -9,7 +9,7 @@
 ---
 
 - **Full Project Report (PDF)**  
-  [`docs/project-report.pdf`](docs/project-report.pdf)
+  [`docs/project-report-Board-Design.pdf`](docs/project-report-Board-Design.pdf)
 
 ---
 
