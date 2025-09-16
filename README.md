@@ -110,8 +110,8 @@ Routed layout (top) and ground-plane view:
 
 ## Repository Layout
 
-├── docs/ # Report, images, timing diagrams
-├── images/ # Photos, timing plots, PCB renders
-├── LICENSES/ # Per-folder licenses
+├── docs/ # Report, images, timing diagrams  
+├── images/ # Photos, timing plots, PCB renders  
+├── LICENSES/ # Per-folder licenses  
 └── README.md
 
